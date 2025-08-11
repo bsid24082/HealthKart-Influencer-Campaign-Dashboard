@@ -16,7 +16,7 @@ This dashboard is an open-source tool built to track, analyze, and visualize the
 
 3.  **Generate Simulated Data:**
     Since no real data was provided, a data simulation script (`generate_data.py` or the `datasets.ipynb` notebook) is used to create realistic data. Run the script to create the necessary CSV files:
-    `python generate_data.py`
+    `python generate_data.py` if using a `.py` file
 
 4.  **Run the Dashboard:**
     Once the CSV files are generated, you can start the Streamlit application:
