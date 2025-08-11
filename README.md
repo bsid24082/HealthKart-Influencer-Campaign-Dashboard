@@ -16,7 +16,7 @@ This dashboard is an open-source tool built to track, analyze, and visualize the
 
 3.  **Generate Simulated Data:**
     Since no real data was provided, a data simulation script (`generate_data.py` or the `datasets.ipynb` notebook) is used to create realistic data. Run the script to create the necessary CSV files:
-    `python generate_data.py`
+    `python generate_data.py` if using a `.py` file
 
 4.  **Run the Dashboard:**
     Once the CSV files are generated, you can start the Streamlit application:
@@ -41,3 +41,13 @@ To make the simulated data as realistic as possible, the following assumptions w
 * **Influencer Leaderboard:** Identifies and ranks top-performing and under-performing influencers by ROI.
 * **Automated Report Generation:** A button generates a detailed, easy-to-read text report summarizing key insights.
 * **Download Functionality:** Allows for the export of data and the generated report.
+
+## 🧑‍💻 About the Author
+
+**Siddharth R Bhardwaj**
+
+I am a data analyst with a passion for building insightful dashboards and tools. This project was developed as an intern assignment for HealthKart.
+
+* **LinkedIn:** https://www.linkedin.com/in/siddharth-r-bhardwaj24082/
+* **GitHub:** https://github.com/bsid24082/
+* **Email:** siddharth.bhardwaj24082@gmail.com
