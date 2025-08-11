@@ -44,11 +44,10 @@ To make the simulated data as realistic as possible, the following assumptions w
 
 ## 🧑‍💻 About the Author
 
-**[Siddharth R Bhardwaj**
+**Siddharth R Bhardwaj**
 
 I am a data analyst with a passion for building insightful dashboards and tools. This project was developed as an intern assignment for HealthKart.
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **GitHub:** [Your GitHub Profile URL]
-* **Portfolio/Website:** [Your Portfolio URL]
-* **Email:** [Your Email Address]
+* **LinkedIn:** https://www.linkedin.com/in/siddharth-r-bhardwaj24082/
+* **GitHub:** https://github.com/bsid24082/
+* **Email:** siddharth.bhardwaj24082@gmail.com
