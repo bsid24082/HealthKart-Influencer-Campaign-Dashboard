@@ -35,7 +35,7 @@ To make the simulated data as realistic as possible, the following assumptions w
 
 ## ✨ Dashboard Features
 
-* ** Dashboard Link: ** https://healthkart-influencer-campaign-dashboard.streamlit.app/
+* **Dashboard Link: =** https://healthkart-influencer-campaign-dashboard.streamlit.app/
 * **Interactive Filters:** Filter data by influencer category, social media platform, and date range.
 * **Key Performance Indicators (KPIs):** Displays total revenue, total payouts, ROI, and Incremental ROAS.
 * **Performance Visualizations:** Includes charts to show revenue trends over time, and performance breakdowns by platform and influencer category.
