@@ -41,3 +41,14 @@ To make the simulated data as realistic as possible, the following assumptions w
 * **Influencer Leaderboard:** Identifies and ranks top-performing and under-performing influencers by ROI.
 * **Automated Report Generation:** A button generates a detailed, easy-to-read text report summarizing key insights.
 * **Download Functionality:** Allows for the export of data and the generated report.
+
+## 🧑‍💻 About the Author
+
+**[Siddharth R Bhardwaj**
+
+I am a data analyst with a passion for building insightful dashboards and tools. This project was developed as an intern assignment for HealthKart.
+
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **GitHub:** [Your GitHub Profile URL]
+* **Portfolio/Website:** [Your Portfolio URL]
+* **Email:** [Your Email Address]
